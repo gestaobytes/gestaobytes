@@ -6,6 +6,10 @@
   <a href="https://github.com/gestaobytes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gestaobytes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gestaobytes&layout=compact&langs_count=7&theme=dark"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs:username=gestaobytes&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gestaobytes&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+    
 </div>
 
 
